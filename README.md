@@ -307,5 +307,3 @@ Step 7  CLOSE
 `VirtualBox` `Lab Design` `Splunk` `Sysmon` `Windows Event Logs` `Linux Syslog` `Alert Triage` `True/False Positive Analysis` `Playbook Execution` `Brute-Force Detection` `Lateral Movement Detection` `Persistence Detection` `Severity Classification` `Escalation Procedure` `nmap` `Metasploit` `Hydra`
 
 ---
-
-*Home lab cybersecurity portfolio — [Windows Auth Log Analysis](../windows-auth-log-analysis) | [Phishing Email Investigation](../phishing-email-investigation)*
